@@ -3,7 +3,7 @@ weight: 1
 title: "Технические работы"
 subtitle: "Технические работы"
 date: 2023-04-05T12:39:01+05:00
-# lastmod: 2023-04-05T12:39:01+05:00
+lastmod: 2023-04-14T15:20:01+05:00
 draft: false
 authors: ["ParisKomm"]
 description: "Технические работы"
