@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Все Статьи - ParisKomm.uz</title>
+        <link>https://pariskomm.github.io/posts/</link>
+        <description>Все Статьи | ParisKomm.uz</description>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><managingEditor>mail@pariskomm.uz (ParisKomm.uz)</managingEditor>
+            <webMaster>mail@pariskomm.uz (ParisKomm.uz)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</copyright><lastBuildDate>Sat, 14 Jan 2023 12:36:01 &#43;0500</lastBuildDate><atom:link href="https://pariskomm.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Test post</title>
+    <link>https://pariskomm.github.io/photo-001-005/</link>
+    <pubDate>Sun, 08 Jan 2023 10:15:01 &#43;0500</pubDate><author>
+                        <name>ParisKomm.uz</name><uri>https://pariskomm.uz/</uri><email>mail@pariskomm.uz</email></author><guid>https://pariskomm.github.io/photo-001-005/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://live.staticflickr.com/65535/52591233640_6dc5700702_b.jpg" referrerpolicy="no-referrer">
+            </div>Test post]]></description>
+</item></channel>
+</rss>
