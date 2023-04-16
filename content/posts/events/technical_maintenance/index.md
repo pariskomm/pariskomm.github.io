@@ -1,5 +1,5 @@
 ---
-weight: 1
+# weight: 1
 title: "Технические работы"
 subtitle: "Технические работы"
 date: 2023-04-05T12:39:01+05:00
@@ -18,8 +18,8 @@ seriesNavigation: false
 featuredImage: "/images/teh.png"
 featuredImagePreview: "/images/teh.png"
 
-hiddenFromHomePage: false
-hiddenFromSearch: false
+hiddenFromHomePage: true
+hiddenFromSearch: true
 twemoji: false
 lightgallery: true
 ruby: true
