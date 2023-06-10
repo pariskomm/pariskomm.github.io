@@ -3,20 +3,20 @@
 title: "Photo 051-060"
 subtitle: "Фотографии с 051 по 060"
 date: 2023-01-28T12:21:01+05:00
-lastmod: 2023-01-28T12:21:01+05:00
+lastmod: 2023-06-10T18:00:01+05:00
 draft: false
 authors: ["ParisKomm"]
 description: "Фотографии с 051 по 060"
 license: ""
-images: ["https://live.staticflickr.com/65535/52604490090_a03d906ea8_w.jpg"] # изображения страниц для Open Graph и Twitter Cards.
+images: ["https://live.staticflickr.com/65535/52964364993_15824dfed9_w.jpg"] # изображения страниц для Open Graph и Twitter Cards.
 
 tags: ["савельева-к-г", "савельев-ф-в", "бербенцева-в-с", "шабуров-г-е", "чешенко-т-ф"]
 categories: ["archaeological"]
 series: ["photo-archive"]
 series_weight: 1
 seriesNavigation: false
-featuredImage: "https://live.staticflickr.com/65535/52604490090_a03d906ea8_b.jpg" # главное изображение для содержимого.
-featuredImagePreview: "https://live.staticflickr.com/65535/52604490090_a03d906ea8_b.jpg" # изображение для главной страницы.
+featuredImage: "" # главное изображение для содержимого.
+featuredImagePreview: "https://live.staticflickr.com/65535/52964364993_15824dfed9_b.jpg" # изображение для главной страницы.
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -83,19 +83,19 @@ related:
 
 ## Photo 051
 
-{{< image src="https://live.staticflickr.com/65535/52604490090_a03d906ea8_b.jpg" alt="Photo 051" caption="Чешенко Татьяна Фёдоровна" src_s="https://live.staticflickr.com/65535/52604490090_a03d906ea8_c.jpg" src_l="https://live.staticflickr.com/65535/52604490090_a03d906ea8_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/52964364993_79d8235933_o.jpg" alt="Photo 051" caption="Чешенко Татьяна Фёдоровна" src_s="https://live.staticflickr.com/65535/52964364993_15824dfed9_c.jpg" src_l="https://live.staticflickr.com/65535/52964364993_15824dfed9_b.jpg" >}}
 
 ***
 
 ## Photo 052
 
-{{< image src="https://live.staticflickr.com/65535/52603565392_5e4975ae06_b.jpg" alt="Photo 052" caption="Савельева Клавдия Григорьевна" src_s="https://live.staticflickr.com/65535/52603565392_5e4975ae06_c.jpg" src_l="https://live.staticflickr.com/65535/52603565392_5e4975ae06_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/52963912216_cbd609c323_o.jpg" alt="Photo 052" caption="Савельева Клавдия Григорьевна" src_s="https://live.staticflickr.com/65535/52963912216_ec741a410e_c.jpg" src_l="https://live.staticflickr.com/65535/52963912216_ec741a410e_b.jpg" >}}
 
 ***
 
 ## Photo 053
 
-{{< image src="https://live.staticflickr.com/65535/52604571318_9da28bfd0a_b.jpg" alt="Photo 053" caption="Савельева К.Г., Савельев Ф.В., Бербенцева В.С." src_s="" src_l="https://live.staticflickr.com/65535/52604571318_9da28bfd0a_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/52963912206_ea536b4935_o.jpg" alt="Photo 053" caption="Савельева К.Г., Савельев Ф.В., Бербенцева В.С." src_s="https://live.staticflickr.com/65535/52963912206_0540e9b696_c.jpg" src_l="https://live.staticflickr.com/65535/52963912206_0540e9b696_b.jpg" >}}
 
 1. Савельева Клавдия Григорьевна
 2. Савельев Федор Васильевич
@@ -105,25 +105,25 @@ related:
 
 ## Photo 054
 
-{{< image src="https://live.staticflickr.com/65535/52604065466_a8b61a961b_b.jpg" alt="Photo 054" caption="Чешенко Татьяна Фёдоровна" src_s="https://live.staticflickr.com/65535/52604065466_a8b61a961b_c.jpg" src_l="https://live.staticflickr.com/65535/52604065466_a8b61a961b_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/52964364968_a30d0603ba_o.jpg" alt="Photo 054" caption="Чешенко Татьяна Фёдоровна" src_s="https://live.staticflickr.com/65535/52964364968_1f9a699354_c.jpg" src_l="https://live.staticflickr.com/65535/52964364968_1f9a699354_b.jpg" >}}
 
 ***
 
 ## Photo 055
 
-{{< image src="https://live.staticflickr.com/65535/52604490145_03b436d383_b.jpg" alt="Photo 055" caption="Шабуров Григорий Ефимович" src_s="https://live.staticflickr.com/65535/52604490145_03b436d383_c.jpg" src_l="https://live.staticflickr.com/65535/52604490145_03b436d383_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/52964291340_57a637b375_o.jpg" alt="Photo 055" caption="Шабуров Григорий Ефимович" src_s="https://live.staticflickr.com/65535/52964291340_c181366942_c.jpg" src_l="https://live.staticflickr.com/65535/52964291340_c181366942_b.jpg" >}}
 
 ***
 
 ## Photo 056
 
-{{< image src="https://live.staticflickr.com/65535/52605688062_e8bc5e7a72_b.jpg" alt="Photo 056" caption="Photo 056" src_s="https://live.staticflickr.com/65535/52605688062_e8bc5e7a72_c.jpg" src_l="https://live.staticflickr.com/65535/52605688062_e8bc5e7a72_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/52963912196_7588caf315_o.jpg" alt="Photo 056" caption="Photo 056" src_s="https://live.staticflickr.com/65535/52963912196_4666732d23_c.jpg" src_l="https://live.staticflickr.com/65535/52963912196_4666732d23_b.jpg" >}}
 
 ***
 
 ## Photo 057
 
-{{< image src="https://live.staticflickr.com/65535/52606188556_2afb1eb9b4_b.jpg" alt="Photo 057" caption="Чешенко Татьяна Фёдоровна" src_s="https://live.staticflickr.com/65535/52606188556_2afb1eb9b4_c.jpg" src_l="https://live.staticflickr.com/65535/52606188556_2afb1eb9b4_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/52963314502_05315f91b8_o.jpg" alt="Photo 057" caption="Чешенко Татьяна Фёдоровна" src_s="https://live.staticflickr.com/65535/52963314502_76305c02e0_c.jpg" src_l="https://live.staticflickr.com/65535/52963314502_76305c02e0_b.jpg" >}}
 
 1. ...
 2. ...
@@ -136,18 +136,18 @@ related:
 
 ## Photo 058
 
-{{< image src="https://live.staticflickr.com/65535/52606188581_a01ac88efa_b.jpg" alt="Photo 058" caption="Photo 058" src_s="https://live.staticflickr.com/65535/52606188581_a01ac88efa_c.jpg" src_l="https://live.staticflickr.com/65535/52606188581_a01ac88efa_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/52963912136_d3b52389c6_o.jpg" alt="Photo 058" caption="Photo 058" src_s="https://live.staticflickr.com/65535/52963912136_04f8bc4f2b_c.jpg" src_l="https://live.staticflickr.com/65535/52963912136_04f8bc4f2b_b.jpg" >}}
 
 ***
 
 ## Photo 059
 
-{{< image src="https://live.staticflickr.com/65535/52606691168_0c11750a7f_b.jpg" alt="Photo 059" caption="Савельева Клавдия Григорьевна" src_s="" src_l="https://live.staticflickr.com/65535/52606691168_0c11750a7f_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/52964291310_6a3a3e13aa_o.jpg" alt="Photo 059" caption="Савельева Клавдия Григорьевна" src_s="https://live.staticflickr.com/65535/52964291310_fc51bbdd48_c.jpg" src_l="https://live.staticflickr.com/65535/52964291310_fc51bbdd48_b.jpg" >}}
 
 ***
 
 ## Photo 060
 
-{{< image src="https://live.staticflickr.com/65535/52605688167_61e66e1e27_b.jpg" alt="Photo 060" caption="Чешенко Татьяна Фёдоровна" src_s="https://live.staticflickr.com/65535/52605688167_61e66e1e27_c.jpg" src_l="https://live.staticflickr.com/65535/52605688167_61e66e1e27_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/52963314482_7f1cd1a911_o.jpg" alt="Photo 060" caption="Чешенко Татьяна Фёдоровна" src_s="https://live.staticflickr.com/65535/52963314482_21a84061f9_c.jpg" src_l="https://live.staticflickr.com/65535/52963314482_21a84061f9_b.jpg" >}}
 
 ***
