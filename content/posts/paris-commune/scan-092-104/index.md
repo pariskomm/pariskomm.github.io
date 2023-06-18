@@ -3,7 +3,7 @@
 title: "Scan 092-104"
 subtitle: "Сканы фотографий с 092 по 104"
 date: 2023-05-31T20:00:01+05:00
-lastmod: 2023-05-31T20:00:01+05:00
+lastmod: 2023-06-18T10:18:01+05:00
 draft: false
 authors: ["ParisKomm"]
 description: "Сканы фотографий с 092 по 104"
