@@ -8,15 +8,15 @@ draft: false
 authors: ["ParisKomm"]
 description: "Фотографии с 061 по 070"
 license: ""
-images: ["https://live.staticflickr.com/65535/52607785522_69b97d27f4_w.jpg"] # изображения страниц для Open Graph и Twitter Cards.
+images: ["https://live.staticflickr.com/65535/53120136660_49f5a76618_w.jpg"] # изображения страниц для Open Graph и Twitter Cards.
 
-tags: ["савельев-ф-в", "чешенко-т-ф", "шабуров-с-г"]
+tags: ["савельев-ф-в", "чешенко-т-ф", "шабуров-с-г", "чешенко-г-ф"]
 categories: ["archaeological"]
 series: ["photo-archive"]
 series_weight: 1
 seriesNavigation: false
-featuredImage: "https://live.staticflickr.com/65535/52607785522_69b97d27f4_b.jpg" # главное изображение для содержимого.
-featuredImagePreview: "https://live.staticflickr.com/65535/52607785522_69b97d27f4_b.jpg" # изображение для главной страницы.
+featuredImage: "" # главное изображение для содержимого.
+featuredImagePreview: "https://live.staticflickr.com/65535/53120136660_49f5a76618_b.jpg" # изображение для главной страницы.
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -83,55 +83,55 @@ related:
 
 ## Photo 061
 
-{{< image src="https://live.staticflickr.com/65535/52607785522_69b97d27f4_b.jpg" alt="Photo 061" caption="Photo 061" src_s="https://live.staticflickr.com/65535/52607785522_69b97d27f4_c.jpg" src_l="https://live.staticflickr.com/65535/52607785522_69b97d27f4_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/53120136660_76b21ff104_o.jpg" alt="Photo 061" caption="Photo 061" src_s="https://live.staticflickr.com/65535/53120136660_49f5a76618_c.jpg" src_l="https://live.staticflickr.com/65535/53120136660_49f5a76618_b.jpg" >}}
 
 ***
 
 ## Photo 062
 
-{{< image src="https://live.staticflickr.com/65535/52608782938_c9b0212249_b.jpg" alt="Photo 062" caption="Photo 062" src_s="https://live.staticflickr.com/65535/52608782938_c9b0212249_c.jpg" src_l="https://live.staticflickr.com/65535/52608782938_c9b0212249_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/53120538763_579278353c_o.jpg" alt="Photo 062" caption="Photo 062" src_s="https://live.staticflickr.com/65535/53120538763_ac60779a54_c.jpg" src_l="https://live.staticflickr.com/65535/53120538763_ac60779a54_b.jpg" >}}
 
 ***
 
 ## Photo 063
 
-{{< image src="https://live.staticflickr.com/65535/52608782948_2220310f08_b.jpg" alt="Photo 063" caption="Photo 063" src_s="https://live.staticflickr.com/65535/52608782948_2220310f08_c.jpg" src_l="https://live.staticflickr.com/65535/52608782948_2220310f08_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/53120250604_c3cb3025a0_o.jpg" alt="Photo 063" caption="Photo 063" src_s="https://live.staticflickr.com/65535/53120250604_22ac483b32_c.jpg" src_l="https://live.staticflickr.com/65535/53120250604_22ac483b32_b.jpg" >}}
 
 ***
 
 ## Photo 064
 
-{{< image src="https://live.staticflickr.com/65535/52608782958_02b5cf4c99_b.jpg" alt="Photo 064" caption="Photo 064" src_s="https://live.staticflickr.com/65535/52608782958_02b5cf4c99_c.jpg" src_l="https://live.staticflickr.com/65535/52608782958_02b5cf4c99_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/53122774435_2a964f379c_o.jpg" alt="Photo 064" caption="Photo 064" src_s="https://live.staticflickr.com/65535/53122774435_5628e17704_c.jpg" src_l="https://live.staticflickr.com/65535/53122774435_5628e17704_b.jpg" >}}
 
 ***
 
 ## Photo 065
 
-{{< image src="https://live.staticflickr.com/65535/52607785567_0edfe6cf2b_b.jpg" alt="Photo 065" caption="Photo 065" src_s="https://live.staticflickr.com/65535/52607785567_0edfe6cf2b_c.jpg" src_l="https://live.staticflickr.com/65535/52607785567_0edfe6cf2b_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/53122774455_c96e207c2e_o.jpg" alt="Photo 065" caption="Photo 065" src_s="https://live.staticflickr.com/65535/53122774455_b96f8b7426_c.jpg" src_l="https://live.staticflickr.com/65535/53122774455_b96f8b7426_b.jpg" >}}
 
 ***
 
 ## Photo 066
 
-{{< image src="https://live.staticflickr.com/65535/52610420686_e2596307fc_b.jpg" alt="Photo 066" caption="Photo 066" src_s="https://live.staticflickr.com/65535/52610420686_e2596307fc_c.jpg" src_l="https://live.staticflickr.com/65535/52610420686_e2596307fc_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/53122774410_1b558c39f8_o.jpg" alt="Photo 066" caption="Photo 066" src_s="https://live.staticflickr.com/65535/53122774410_03010c6055_c.jpg" src_l="https://live.staticflickr.com/65535/53122774410_03010c6055_b.jpg" >}}
 
 ***
 
 ## Photo 067
 
-{{< image src="https://live.staticflickr.com/65535/52610842610_fefce079b7_b.jpg" alt="Photo 067" caption="Photo 067" src_s="https://live.staticflickr.com/65535/52610842610_fefce079b7_c.jpg" src_l="https://live.staticflickr.com/65535/52610842610_fefce079b7_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/53124535551_70cf3c4b3e_o.jpg" alt="Photo 067" caption="Photo 067" src_s="https://live.staticflickr.com/65535/53124535551_195d0638bd_c.jpg" src_l="https://live.staticflickr.com/65535/53124535551_195d0638bd_b.jpg" >}}
 
 ***
 
 ## Photo 068
 
-{{< image src="https://live.staticflickr.com/65535/52610420741_aa65ce451f_b.jpg" alt="Photo 068" caption="Photo 068" src_s="https://live.staticflickr.com/65535/52610420741_aa65ce451f_c.jpg" src_l="https://live.staticflickr.com/65535/52610420741_aa65ce451f_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/53127342278_7a14a5e027_o.jpg" alt="Photo 068" caption="Photo 068" src_s="https://live.staticflickr.com/65535/53127342278_bc68d41d0f_c.jpg" src_l="https://live.staticflickr.com/65535/53127342278_bc68d41d0f_b.jpg" >}}
 
 ***
 
 ## Photo 069
 
-{{< image src="https://live.staticflickr.com/65535/52610842655_a218a31716_b.jpg" alt="Photo 069" caption="Савельев Ф.В., Чешенко Т.Ф." src_s="https://live.staticflickr.com/65535/52610842655_a218a31716_c.jpg" src_l="https://live.staticflickr.com/65535/52610842655_a218a31716_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/53133856500_ce32759355_o.jpg" alt="Photo 069" caption="Савельев Ф.В., Чешенко Т.Ф." src_s="https://live.staticflickr.com/65535/53133856500_c64a29c073_c.jpg" src_l="https://live.staticflickr.com/65535/53133856500_c64a29c073_b.jpg" >}}
 
 1. Савельев Федор Васильевич
 2. Чешенко Татьяна Фёдоровна
@@ -140,6 +140,6 @@ related:
 
 ## Photo 070
 
-{{< image src="https://live.staticflickr.com/65535/52609917782_df86185ea1_b.jpg" alt="Photo 070" caption="Шабуров Сергей Григорьевич" src_s="https://live.staticflickr.com/65535/52609917782_df86185ea1_c.jpg" src_l="https://live.staticflickr.com/65535/52609917782_df86185ea1_b.jpg" >}}
+{{< image src="https://live.staticflickr.com/65535/53133657449_c88da83f35_o.jpg" alt="Photo 070" caption="Шабуров Сергей Григорьевич" src_s="https://live.staticflickr.com/65535/53133657449_ca01962ddc_c.jpg" src_l="https://live.staticflickr.com/65535/53133657449_ca01962ddc_b.jpg" >}}
 
 ***
