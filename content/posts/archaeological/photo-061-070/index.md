@@ -3,7 +3,7 @@
 title: "Photo 061-070"
 subtitle: "Фотографии с 061 по 070"
 date: 2023-01-28T13:09:01+05:00
-lastmod: 2023-01-28T13:09:01+05:00
+lastmod: 2023-08-22T14:45:01+05:00
 draft: false
 authors: ["ParisKomm"]
 description: "Фотографии с 061 по 070"
