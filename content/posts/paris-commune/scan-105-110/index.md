@@ -8,7 +8,7 @@ draft: false
 authors: ["ParisKomm"]
 description: "Сканы фотографий с 105 по 110"
 license: ""
-images: ["https://i.imgur.com/rSjHwqll.jpg"] # изображения страниц для Open Graph и Twitter Cards.
+images: ["https://i.imgur.com/biYa8ZTm.jpg"] # изображения страниц для Open Graph и Twitter Cards.
 
 tags: ["шехирева-а-е", "шабуров-с-г", "коковин-м-с", "шабурова-т-с", "шабуров-г-е", ]
 categories: ["paris-commune"]
